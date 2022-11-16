@@ -559,7 +559,7 @@ Il est temps de mettre en pratique l'ensemble assez riche des concepts fondament
 
 ====
 [start=7]
-. Ajouter la propriété `QItem` à la classe `Person` (type `String`). Cette propriété est un identifiant d'entité de *wikidata* (_Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others._)
+. (*challenge*) Ajouter la propriété `QItem` à la classe `Person` (type `String`). Cette propriété est un identifiant d'entité de *wikidata* (_Wikidata is a free and open knowledge base that can be read and edited by both humans and machines. Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others._)
 +
 Si la propriété `QItem` de wikidata d'une personne est renseignée, alors faire en sorte que le client HTTP affiche la photo de cette personne dans la vue détaillée. Une implémentation en *JavaScript* est attendue.
 +
